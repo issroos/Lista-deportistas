@@ -2,165 +2,113 @@
     "deportistas": [
         {
                 "id": "1",
-                "name": "Unai Simón",
-                "posicion": "portero",
-                "imagen": "https://cdn.athletic-club.eus/imagenes/fotogaleria/galeria108964.jpg",
-                "fecha_nac" : "11/06/1997",
-                "nacionalidad" : "español",
-                "palmarés": [{
-                    "año": "2016",
-                    "trofeo": "Seleccionado en el Once de Plata del Fútbol Draft"
-                },{
-                    "año": "2017",
-                    "trofeo": "Seleccionado en el Once de Oro del Fútbol Draft"
-                }]
+                "name": "Lionel Messi",
+                "posicion": "delantero",
+                "imagen": "https://ep01.epimg.net/deportes/imagenes/2019/04/19/actualidad/1555686393_895375_1555686917_noticia_normal.jpg",
+                "fecha_nac": "24/06/1987",
+                "nacionalidad": "argentino",
+                "equipo": "Barcelona"
+               
         },
          {
                 "id": "2",
-                "name": "Yuri Berchiche Izeta",
-                "posicion": "defensa",
-                "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2018/07/06/15308838523965.jpg",
-                "fecha_nac" : "12/02/1990",
-                "nacionalidad" : "español",
-                "palmarés": [{
-                    "año": "2018",
-                    "trofeo": "Ligue 1"
-                },{
-                    "año": "2018",
-                    "trofeo": "Copa de Francia"
-                }]
+                "name": "Cristiano Ronaldo",
+                "posicion": "delantero",
+                "imagen": "https://caracoltv.brightspotcdn.com/dims4/default/bec49e2/2147483647/strip/true/crop/594x396+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2F99%2Fae%2F4b9b26e84b5aaa92eaea81c040be%2Fgettyimages-1232906077-594x594.jpg",
+                "fecha_nac": "5/02/1985",
+                "nacionalidad": "portugues",
+                "equipo": "Juventus"
+                
         },
          {
                 "id": "3",
-                "name": "Iñigo Martínez",
-                "posicion": "defensa",
-                "imagen": "http://img2.rtve.es/v/4446563?w=1600&preview=1517346122959.jpg",
-                "fecha_nac" : "17/05/1991",
-                "nacionalidad" : "español",
-                "palmarés": [{
-                    "año": "2013",
-                    "trofeo": "Eurocopa sub-21"
-                }]
+                "name": "Kylian Mbappé",
+                "posicion": "delantero",
+                "imagen": "https://readsport.es:2096/previews/3/9/1617650593.jpg",
+                "fecha_nac": "20/12/1998",
+                "nacionalidad": "francés",
+                "equipo": "PSG"
+               
         },
          {
                 "id": "4",
-                "name": "Yeray Álvarez",
-                "posicion": "defensa",
-                "imagen": "https://i.gyazo.com/3a23281400402521cc54456ecdf65009.png",
-                "fecha_nac" : "24/01/1995",
-                "nacionalidad" : "español",
-                "palmarés": [{
-                    "año": "2018",
-                    "trofeo": "Nada"
-                },{
-                    "año": "2017",
-                    "trofeo": "Nada"
-                }]
+                "name": "David Silva",
+                "posicion": "medio",
+                "imagen": "https://static3.abc.es/media/deportes/2021/04/04/silva-k27F--620x349@abc.jpg",
+                "fecha_nac": "8/01/1986",
+                "nacionalidad": "español",
+                "equipo": "Real Sociedad"
+                
         },
          {
                 "id": "5",
-                "name": "Óscar de Marcos",
-                "posicion": "defensa",
-                "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/%D0%A8%D0%B0%D1%85%D1%82%D0%B5%D1%80-%D0%90%D1%82%D0%BB%D0%B5%D1%82%D0%B8%D0%BA_%283%29.jpg/250px-%D0%A8%D0%B0%D1%85%D1%82%D0%B5%D1%80-%D0%90%D1%82%D0%BB%D0%B5%D1%82%D0%B8%D0%BA_%283%29.jpg",
-                "fecha_nac" : "14/04/1989",
-                "nacionalidad" : "español",
-                "palmarés": [{
-                    "año": "2015",
-                    "trofeo": "Subcampeón Copa del rey"
-                },{
-                    "año": "2015",
-                    "trofeo": "Supercopa de España"
-                }]
+                "name": "Kevin De Bruyne",
+                "posicion": "medio",
+                "imagen": "https://naciondeportes.com/wp-content/uploads/2020/03/kevin-de-bruyne-manchester-city.jpg",
+                "fecha_nac": "28/06/1991",
+                "nacionalidad": "belga",
+                "equipo": "Manchester City"
+                
         },
          {
                 "id": "6",
-                "name": "Iker Muniain",
-                "posicion": "medio centro",
-                "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2014/05/28/14012942613980.jpg",
-                "fecha_nac" : "19/12/1992",
-                "nacionalidad" : "español",
-                "palmarés": [{
-                    "año": "2015",
-                    "trofeo": "Subcampeón Copa del rey"
-                },{
-                    "año": "2015",
-                    "trofeo": "Supercopa de España"
-                }]
+                "name": "Frenkie De Jong",
+                "posicion": "medio",
+                "imagen": "https://stadium-azteca.underdog.gs/soccerly/1.5/2020/08/08/1596927700.jpg",
+                "fecha_nac": "12/05/1997",
+                "nacionalidad": "holandes",
+                "equipo": "Barcelona"
+                
         },
          {
                 "id": "7",
-                "name": "Markel Susaeta",
-                "posicion": "medio centro",
-                "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2017/09/05/15046104096909.jpg",
-                "fecha_nac" : "14/12/1987",
-                "nacionalidad" : "español",
-                "palmarés": [{
-                    "año": "2015",
-                    "trofeo": "Subcampeón Copa del rey"
-                },{
-                    "año": "2015",
-                    "trofeo": "Supercopa de España"
-                }]
+                "name": "Luka Modric",
+                "posicion": "medio",
+                "imagen": "https://meritocraciablanca.com/wp-content/uploads/luka.modric.jpg",
+                "fecha_nac": "09/09/1985",
+                "nacionalidad": "croata",
+                "equipo": "Madrid"
+                
         },
          {
                 "id": "8",
-                "name": "Beñat Etxebarria",
-                "posicion": "medio centro",
-                "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/12/07/14811062544474.jpg",
-                "fecha_nac" : "19/02/1987",
-                "nacionalidad" : "español",
-                  "palmarés": [{
-                    "año": "2015",
-                    "trofeo": "Subcampeón Copa del rey"
-                },{
-                    "año": "2015",
-                    "trofeo": "Supercopa de España"
-                }]
+                "name": "Sergio Ramos",
+                "posicion": "defensa",
+                "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/OZSXWZDGLM4KD7TCXAPKPLAKT4.jpg",
+                "fecha_nac": "30/03/1986",
+                "nacionalidad": "español",
+                "equipo": "Madrid"
+                  
         },
          {
                 "id": "9",
-                "name": "Raúl García Escudero",
-                "posicion": "medio centro",
-                "imagen": "https://capitaldeporte.com/wp-content/uploads/2017/05/Ra%C3%BAl-Garc%C3%ADa-celebrando-uno-de-sus-goles-esta-temporada.jpg",
-                "fecha_nac" : "11/07/1986",
-                "nacionalidad" : "español",
-                "palmarés": [{
-                    "año": "2014",
-                    "trofeo": "Liga española(Atletico de Madrid)"
-                },{
-                    "año": "2010",
-                    "trofeo": "UEFA(Atletico de Madrid)"
-                }]
+                "name": "Raphaël Varane",
+                "posicion": "defensa",
+                "imagen": "https://cadenaser00.epimg.net/ser/imagenes/2021/05/03/deportes/1620039704_748111_1620040301_noticia_normal.jpg",
+                "fecha_nac": "25/05/1993",
+                "nacionalidad": "frances",
+                "equipo": "Madrid"
+                
         },
          {
                 "id": "10",
-                "name": "Aritz Aduriz",
-                "posicion": "delantero",
-                "imagen": "https://as00.epimg.net/futbol/imagenes/2016/11/03/uefa/1478192122_589648_1478204613_noticia_normal.jpg",
-                "fecha_nac" : "11/02/1981",
-                "nacionalidad" : "español",
-                "palmarés": [{
-                    "año": "2015",
-                    "trofeo": "Supercopa de España"
-                },{
-                    "año": "2015",
-                    "trofeo": "Subcampeón Copa del rey"
-                }]
+                "name": "Leonardo Bonucci",
+                "posicion": "defensa",
+                "imagen": "https://prod.media.libero.pe/1200x660/libero/imagen/2018/10/10/noticia-leonardo-bonucci-tuttomercato24.jpg",
+                "fecha_nac": "01/05/1987",
+                "nacionalidad": "italiano",
+                "equipo": "Juventus"
+                
         },
-            {
+         {
                 "id": "11",
-                "name": "Iñaki Williams",
-                "posicion": "delantero",
+                "name": "Marc-André ter Stegen",
+                "posicion": "portero",
                 "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/04/18/14609895180534.jpg",
-                "fecha_nac" : "06/12/1994",
-                "nacionalidad" : "español",
-                "palmarés": [{
-                    "año": "2015",
-                    "trofeo": "Supercopa de España"
-                },{
-                    "año": "2015",
-                    "trofeo": "Subcampeón Copa del rey"
-                }]
+                "fecha_nac": "30/05/1992",
+                "nacionalidad": "alemán",
+                "equipo": "Barcelona"
+                
         }
     ]
 }
